@@ -2,7 +2,6 @@
 <!DOCTYPE mapper
 PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<!-- git테스트 -->
 <mapper namespace="com.bitcamp.web.mapper.MemberMapper">
 
 </mapper>
