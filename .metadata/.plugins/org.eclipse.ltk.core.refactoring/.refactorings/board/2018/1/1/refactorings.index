@@ -1,0 +1,32 @@
+1515211543542	Delete element
+1515217349182	Move file
+1515218132095	Rename package 'com.bitcamp.web'
+1515218149521	Copy compilation unit
+1515218356084	Copy file
+1515218362316	Rename resource 'main.jsp'
+1515218686096	Rename type 'memberController'
+1515221938855	Copy compilation unit
+1515222043583	Copy file
+1515222047023	Rename resource 'wite.jsp'
+1515224570950	Rename resource 'root-context.xml'
+1515224604123	Move file
+1515224607432	Delete element
+1515225544073	Copy package
+1515225554414	Copy package
+1515225603403	Copy compilation unit
+1515225627479	Copy compilation unit
+1515225643684	Copy compilation unit
+1515225661085	Copy package
+1515225679345	Rename type 'BoardService'
+1515225684704	Rename type 'MemberService'
+1515225937874	Rename resource 'data.propertis'
+1515227646617	Copy package
+1515227665831	Copy package
+1515227726183	Copy file
+1515227730274	Rename resource 'boardMapper.xml'
+1515227771897	Rename package 'com.bitcamp.web.mapper'
+1515227922348	Rename package 'com.bitcamp.mapper'
+1515227934420	Rename package 'com.bitcamp.domain'
+1515227943035	Rename package 'com.bitcamp.service.Impl'
+1515227947657	Rename package 'com.bitcamp.service'
+1515227953095	Rename package 'com.bitcamp.mapper'

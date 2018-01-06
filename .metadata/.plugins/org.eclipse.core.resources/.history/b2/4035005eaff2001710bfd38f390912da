@@ -1,0 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<jsp:include page="../common/head.jsp"></jsp:include>
+
+<jsp:include page="../common/footer.jsp"></jsp:include>
+
+<script>
+$("#write_btn").click(()=>{
+	location.href="${pageContext.request.contextPath}/";
+});
+</script>

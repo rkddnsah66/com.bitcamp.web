@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+#login_table table, tr, td {
+	border: 1px solid gray
+}
+
+#board_table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top:150px 
+}
+
+#board_table td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#board_table tr:nth-child(even) {
+    background-color: #dddddd;
+}

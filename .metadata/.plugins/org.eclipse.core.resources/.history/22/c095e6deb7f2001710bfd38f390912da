@@ -1,0 +1,5 @@
+package com.bitcamp.service.Impl;
+
+public interface BoardServiceImpl {
+
+}

@@ -1,0 +1,5 @@
+</body>
+<script type="text/javascript">
+	location.href= "${pageContext.request.contextPath}/login_form";
+</script>
+</html>

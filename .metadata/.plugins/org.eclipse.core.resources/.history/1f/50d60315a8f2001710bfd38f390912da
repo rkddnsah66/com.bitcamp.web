@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+table, tr, td {
+	border: 1px solid gray
+}
+
+#board_table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#board_table td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#board_table tr:nth-child(even) {
+    background-color: #dddddd;
+}
